@@ -11,7 +11,6 @@ Our community supports a large number of open source, OSM-related projects here 
 | **Dogwood**<br/>The custom static website theme powering openstreetmap.us. | [/osmus/dogwood](https://github.com/osmus/dogwood) | Jekyll, JavaScript, Ruby
 | **Field Papers**<br/>The pen-and-paper mapping workflow. | [/fieldpapers](https://github.com/fieldpapers) | JavaScript, Ruby, Python
 | **OpenTrailMap**<br/>Visualizer for OpenStreetMap trail data. | [/osmus/OpenTrailMap](https://github.com/osmus/OpenTrailMap) | JavaScript
-| **Public Domain Map**<br/> | [/publicdomainmap](https://github.com/publicdomainmap) | 
 
 ### Community & Charter Projects
 
