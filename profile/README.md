@@ -1,8 +1,6 @@
-# OpenStreetMap US on GitHub
+[OpenStreetMap US](https://openstreetmap.us) promotes the OpenStreetMap project in the United States and around the world. We're a 501(c)(3) nonprofit and an official local chapter of the OpenStreetMap Foundation.
 
-[OpenStreetMap US](https://openstreetmap.us) supports the OpenStreetMap project in the United States and around the world. We're a 501(c)(3) nonprofit and an official local chapter of the OpenStreetMap Foundation.
-
-Our community maintains a large number of open source, OSM-related projects here on GitHub. You can leverage this code for your own use cases. Most project accept external contributions—we encourage you to get involved!
+Our community supports a large number of open source, OSM-related projects here on GitHub. You can leverage this code for your own use cases. Most project accept external contributions—we encourage you to get involved!
 
 ## Code Directory
 
@@ -16,6 +14,8 @@ Our community maintains a large number of open source, OSM-related projects here
 | **Public Domain Map**<br/> | [/publicdomainmap](https://github.com/publicdomainmap) | 
 
 ### Community & Charter Projects
+
+These projects are maintained and directed by members of the broader OSM community, while receiving support from OSM US. Are you interested in finding a long-term home for your project? [Learn more](https://openstreetmap.us/our-work/community-charter-projects/).
 
 | Project | GitHub | Languages & Frameworks |
 | --- | --- | --- |
