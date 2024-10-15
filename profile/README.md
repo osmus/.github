@@ -23,3 +23,6 @@ These projects are maintained and directed by members of the broader OSM communi
 | **OpenHistoricalMap**<br/>OSM for historical map data. | [/openhistoricalmap](https://github.com/openhistoricalmap) | JavaScript, Python, Ruby
 | **OSM Americana**<br/>A vector map style based on US paper highway maps. | [/osm-americana](https://github.com/osm-americana) | JavaScript
 | **OSMCha**<br/>Changeset review and validation tool. | [/OSMCha](https://github.com/OSMCha) | JavaScript, Python
+
+## Code of Conduct
+Participation is subject to the [OpenStreetMap US Code of Conduct](https://wiki.openstreetmap.org/wiki/Foundation/Local_Chapters/United_States/Code_of_Conduct_Committee/OSM_US_Code_of_Conduct). Please take a moment to review the CoC prior to contributing, and remember to be nice :)
