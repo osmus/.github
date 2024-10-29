@@ -22,7 +22,7 @@ These projects are maintained and directed by members of the broader OSM communi
 
 | Project | GitHub | Languages & Frameworks |
 | --- | --- | --- |
-| **MapRoulette**<br/>The game of mini mapping challenges. | [/MapRoulette](https://github.com/MapRoulette) | JavaScript, Python, Java
+| **MapRoulette**<br/>Micro-tasking tool for OpenStreetMap. | [/MapRoulette](https://github.com/MapRoulette) | JavaScript, Scala
 | **OpenHistoricalMap**<br/>OSM for historical map data. | [/openhistoricalmap](https://github.com/openhistoricalmap) | JavaScript, Python, Ruby
 | **OSMCha**<br/>Changeset review and validation tool. | [/OSMCha](https://github.com/OSMCha) | JavaScript, Python
 
