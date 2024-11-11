@@ -33,6 +33,8 @@ These projects are maintained and directed by members of the broader OSM communi
 | --- | --- | --- |
 | **OSM Americana**<br/>A vector map style based on US paper highway maps. | [/osm-americana](https://github.com/osm-americana) | JavaScript
 | **OSM Merge**<br/>Conflate and import data into OpenStreetMap. | [/osm-merge](https://github.com/osm-merge) | Python
+| **SliceOSM**<br/>Download up-to-the-minute OSM data for custom areas. | [/SliceOSM](https://github.com/SliceOSM) | TypeScript, Go
+
 
 
 ## Code of Conduct
