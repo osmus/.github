@@ -8,11 +8,12 @@ Our community supports a large number of open source, OSM-related projects here 
 
 | Project | GitHub | Languages & Frameworks |
 | --- | --- | --- |
-| **Dogwood**<br/>The custom static website theme powering openstreetmap.us. | [/osmus/dogwood](https://github.com/osmus/dogwood) | Jekyll, JavaScript, Ruby
 | **Field Papers**<br/>The pen-and-paper mapping workflow. | [/fieldpapers](https://github.com/fieldpapers) | JavaScript, Ruby, Python
-| **OpenTrailMap**<br/>Visualizer for OpenStreetMap trail data. | [/osmus/OpenTrailMap](https://github.com/osmus/OpenTrailMap) | JavaScript
+| **OpenTrailMap**<br/>Visualizer for OpenStreetMap trail data. | [/osmus/OpenTrailMap](https://github.com/osmus/OpenTrailMap) | JavaScript, MapLibre
 | **OSM Sandbox**<br/>Spin up your own OSM stack. | [/osm-sandbox](https://github.com/osm-sandbox) | JavaScript, Kubernetes, Helm
-| **Tileservice**<br/>Community vector tile renderer and server. | [/osmus/tileservice](https://github.com/osmus/tileservice) | Planetiler, Shell, Python
+| **Tileservice**<br/>Community vector tile server. | [/osmus/tileservice](https://github.com/osmus/tileservice) | Planetiler, Shell, Python
+| **Layercake**<br/>Thematic extracts of OSM data in cloud-native file formats. | [/osmus/layercake](https://github.com/osmus/layercake) | Python, DuckDB SQL
+| **Dogwood**<br/>The custom static website theme powering the [openstreetmap.us](https://openstreetmap.us) website. | [/osmus/dogwood](https://github.com/osmus/dogwood) | Jekyll, JavaScript, Ruby
 
 ### Community & Charter Projects
 
@@ -31,7 +32,7 @@ These projects are maintained and directed by members of the broader OSM communi
 
 | Project | GitHub | Languages & Frameworks |
 | --- | --- | --- |
-| **OSM Americana**<br/>A vector map style based on US paper highway maps. | [/osm-americana](https://github.com/osm-americana) | JavaScript
+| **OSM Americana**<br/>A vector map style based on US paper highway maps. | [/osm-americana](https://github.com/osm-americana) | JavaScript, MapLibre
 | **OSM Merge**<br/>Conflate and import data into OpenStreetMap. | [/osm-merge](https://github.com/osm-merge) | Python
 | **SliceOSM**<br/>Download up-to-the-minute OSM data for custom areas. | [/SliceOSM](https://github.com/SliceOSM) | TypeScript, Go
 
