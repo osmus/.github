@@ -1,6 +1,6 @@
-[OpenStreetMap US](https://openstreetmap.us) promotes the OpenStreetMap project in the United States and around the world. We're a 501(c)(3) nonprofit and an official local chapter of the OpenStreetMap Foundation.
+[OpenStreetMap US](https://openstreetmap.us) supports the OpenStreetMap community in the United States and around the world. We're a 501(c)(3) nonprofit and an official local chapter of the OpenStreetMap Foundation.
 
-Our community supports a large number of open source, OSM-related projects here on GitHub. You can leverage this code for your own use cases. Most project accept external contributions—we encourage you to get involved!
+We host and support a large number of open source, OSM-related projects here on GitHub. You can leverage this code for your own use cases. Most project accept external contributions—we encourage you to get involved!
 
 ## Code Directory
 
