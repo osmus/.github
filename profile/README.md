@@ -8,12 +8,13 @@ We host and support a large number of open source, OSM-related projects here on 
 
 | Project | GitHub | Languages & Frameworks |
 | --- | --- | --- |
+| **MapRoulette**<br/>Micro-tasking tool for OpenStreetMap. | [/MapRoulette](https://github.com/MapRoulette) | JavaScript, Scala
+| **OSMCha**<br/>Changeset review and validation tool. | [/OSMCha](https://github.com/OSMCha) | JavaScript, Python
 | **Field Papers**<br/>The pen-and-paper mapping workflow. | [/fieldpapers](https://github.com/fieldpapers) | JavaScript, Ruby, Python
 | **OpenTrailMap**<br/>Visualizer for OpenStreetMap trail data. | [/osmus/OpenTrailMap](https://github.com/osmus/OpenTrailMap) | JavaScript, MapLibre
 | **OSM Sandbox**<br/>Spin up your own OSM stack. | [/osm-sandbox](https://github.com/osm-sandbox) | JavaScript, Kubernetes, Helm
 | **Tileservice**<br/>Community vector tile server. | [/osmus/tileservice](https://github.com/osmus/tileservice) | Planetiler, Shell, Python
 | **Layercake**<br/>Thematic extracts of OSM data in cloud-native file formats. | [/osmus/layercake](https://github.com/osmus/layercake) | Python, DuckDB SQL
-| **Dogwood**<br/>The custom static website theme powering the [openstreetmap.us](https://openstreetmap.us) website. | [/osmus/dogwood](https://github.com/osmus/dogwood) | Jekyll, JavaScript, Ruby
 
 ### Community & Charter Projects
 
@@ -23,9 +24,7 @@ These projects are maintained and directed by members of the broader OSM communi
 
 | Project | GitHub | Languages & Frameworks |
 | --- | --- | --- |
-| **MapRoulette**<br/>Micro-tasking tool for OpenStreetMap. | [/MapRoulette](https://github.com/MapRoulette) | JavaScript, Scala
 | **OpenHistoricalMap**<br/>OSM for historical map data. | [/openhistoricalmap](https://github.com/openhistoricalmap) | JavaScript, Python, Ruby
-| **OSMCha**<br/>Changeset review and validation tool. | [/OSMCha](https://github.com/OSMCha) | JavaScript, Python
 
 
 #### Community Projects
