@@ -9,12 +9,12 @@ We host and support a large number of open source, OSM-related projects here on 
 | Project | GitHub | Languages & Frameworks |
 | --- | --- | --- |
 | **MapRoulette**<br/>Micro-tasking tool for OpenStreetMap. | [/MapRoulette](https://github.com/MapRoulette) | JavaScript, Scala
-| **OSMCha**<br/>Changeset review and validation tool. | [/OSMCha](https://github.com/OSMCha) | JavaScript, Python
-| **Field Papers**<br/>The pen-and-paper mapping workflow. | [/fieldpapers](https://github.com/fieldpapers) | JavaScript, Ruby, Python
+| **OSMCha**<br/>Changeset review and validation tool. | [/OSMCha](https://github.com/OSMCha) | TypeScript, Python/Django
+| **Field Papers**<br/>The pen-and-paper mapping workflow. | [/fieldpapers](https://github.com/fieldpapers) | Ruby on Rails, JavaScript, Python
 | **OpenTrailMap**<br/>Visualizer for OpenStreetMap trail data. | [/osmus/OpenTrailMap](https://github.com/osmus/OpenTrailMap) | JavaScript, MapLibre
 | **OSM Sandbox**<br/>Spin up your own OSM stack. | [/osm-sandbox](https://github.com/osm-sandbox) | JavaScript, Kubernetes, Helm
-| **Tileservice**<br/>Community vector tile server. | [/osmus/tileservice](https://github.com/osmus/tileservice) | Planetiler, Shell, Python
-| **Layercake**<br/>Thematic extracts of OSM data in cloud-native file formats. | [/osmus/layercake](https://github.com/osmus/layercake) | Python, DuckDB SQL
+| **Tileservice**<br/>Community vector tile server. | [/osmus/tileservice](https://github.com/osmus/tileservice) | Planetiler, Shell, TypeScript
+| **Layercake**<br/>Thematic extracts of OSM data in cloud-native file formats. | [/osmus/layercake](https://github.com/osmus/layercake) | DuckDB SQL
 
 ### Community & Charter Projects
 
