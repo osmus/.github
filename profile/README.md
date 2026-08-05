@@ -25,6 +25,7 @@ These projects are maintained and directed by members of the broader OSM communi
 | Project | GitHub | Languages & Frameworks |
 | --- | --- | --- |
 | **OpenHistoricalMap**<br/>OSM for historical map data. | [/openhistoricalmap](https://github.com/openhistoricalmap) | JavaScript, Python, Ruby
+| **Yesterdays**<br/>georeference historical images. | [/MapRVA/yesterdays](https://github.com/MapRVA/yesterdays/) | JavaScript, Python/Django
 
 
 #### Community Projects
